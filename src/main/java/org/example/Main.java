@@ -8,5 +8,6 @@ public class Main {
         // to see how IntelliJ IDEA suggests fixing it.
         System.out.println("Hello and welcome!");
         System.out.println("43252352");
+        System.out.println("65463");
     }
 }
